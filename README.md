@@ -8,5 +8,6 @@ Write Processed Data to File: The filtered entries are written to a new file nam
 How to Run:
 
 Run the Python script in a terminal or command line.
-Enter the log file name when prompted.
+Enter the log file name when prompted (test using "server_log.txt" from this repository).
 The processed entries with a status code of 200 will be written to processed_log.txt.
+An example output is included in this repsitory to view. 
